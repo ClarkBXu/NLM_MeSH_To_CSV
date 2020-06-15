@@ -20,6 +20,12 @@ csv, urllib, xml
 NLM features transformed into CSV: <br>
 DescriptorClass, DescriptorUI, NLMClassificationNumber, DescriptorName, DateCreated, Annotation, AllowableQualifiersList, PharmacologicalActionList, OnlineNote, HistoryNote, PublicMeSHNote
 
+Script Name: <br>
+XML_Parser.py
+
+Script Output: <br>
+MeSH_2020_Desc.csv
+
 ## Licensing (The MIT License)
 Copyright 2020 Clark Xu
 
