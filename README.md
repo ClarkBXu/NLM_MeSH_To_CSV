@@ -7,7 +7,7 @@ Clark Xu - June 15, 2020
 ## Purpose
 The script converts descriptors in the 2020 National Library of Medicine (NLM) MeSH Data from XML to CSV File Format for ease of medical concept searching on the NLM website. Contribution to the PAGER-COV Project.
 
-NLM Files documented at: https://www.nlm.nih.gov/databases/download/mesh.html
+NLM Files documented at: https://www.nlm.nih.gov/databases/download/mesh.html <br>
 PAGER-COV documented at: http://discovery.informatics.uab.edu/PAGERCOV/
 
 ## Specifications and Dependencies
@@ -17,7 +17,7 @@ Python 3
 csv, urllib, xml
 
 ## Details
-NLM features transformed into CSV:
+NLM features transformed into CSV: <br>
 DescriptorClass, DescriptorUI, NLMClassificationNumber, DescriptorName, DateCreated, Annotation, AllowableQualifiersList, PharmacologicalActionList, OnlineNote, HistoryNote, PublicMeSHNote
 
 ## Licensing (The MIT License)
